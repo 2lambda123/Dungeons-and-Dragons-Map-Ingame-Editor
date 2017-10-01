@@ -1,0 +1,2 @@
+# D-D-Map-In-Game-Editor
+This is a pet project of creating a program for setting up and displaying a digital version of a Dungeons and Dragons encounter map. This is because making maps by hand can be too expensive, fragile, and time consuming. However you can't tear or spill drinks on a digital map, map-making software is available for free online, and with them you can make high quality maps even if you have little to no artistic skill.
